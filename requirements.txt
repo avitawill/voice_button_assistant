@@ -1,9 +1,0 @@
-Flask
-sounddevice
-soundfile
-numpy
-requests
-RPi.GPIO
-gtts
-openai
-openai-whisper

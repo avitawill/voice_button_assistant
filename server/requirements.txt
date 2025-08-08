@@ -1,0 +1,7 @@
+Flask
+soundfile
+numpy
+requests
+openai
+openai-whisper
+gTTS
