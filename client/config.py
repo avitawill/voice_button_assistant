@@ -1,0 +1,6 @@
+BUTTON_PIN = 17
+LED_PIN = 27
+SERVER_URL = "http://10.0.0.5:8000/process_audio"
+RECORD_SECONDS = 5
+
+AUDIO_FORMAT = "wav"
